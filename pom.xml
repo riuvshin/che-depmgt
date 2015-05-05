@@ -21,7 +21,7 @@
     </parent>
     <groupId>org.eclipse.che.depmgt</groupId>
     <artifactId>maven-depmgt-pom</artifactId>
-    <version>1.21.0-SNAPSHOT</version>
+    <version>1.21.0-userdashboardV2-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Che Dependency Management POM</name>
     <description>Provides version of third parties artifacts to use in Codenvy platform projects</description>
@@ -40,7 +40,7 @@
         <codenvy.api-docs-ui.version>1.6.0-SNAPSHOT</codenvy.api-docs-ui.version>
         <codenvy.cli.version>2.10.0-SNAPSHOT</codenvy.cli.version>
         <codenvy.cloud-ide.version>3.10.0-SNAPSHOT</codenvy.cloud-ide.version>
-        <codenvy.dashboard.version>0.16.0-SNAPSHOT</codenvy.dashboard.version>
+        <codenvy.dashboard.version>2.0.0-preview-SNAPSHOT</codenvy.dashboard.version>
         <codenvy.factory.version>0.25.0-SNAPSHOT</codenvy.factory.version>
         <codenvy.hosted-infrastructure.version>0.17.0-SNAPSHOT</codenvy.hosted-infrastructure.version>
         <codenvy.odyssey.version>0.31.0-SNAPSHOT</codenvy.odyssey.version>
