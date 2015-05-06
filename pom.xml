@@ -126,7 +126,7 @@
         <org.apache.pig.version>0.12.0-codenvy-p1</org.apache.pig.version>
         <org.apache.poi.version>3.8</org.apache.poi.version>
         <org.apache.tika.version>1.1</org.apache.tika.version>
-        <org.apache.tomcat.version>7.0.54</org.apache.tomcat.version>
+        <org.apache.tomcat.version>8.0.21</org.apache.tomcat.version>
         <org.assertj.version>1.6.1</org.assertj.version>
         <org.bouncycastle.version>1.51</org.bouncycastle.version>
         <org.codehaus.groovy.version>1.8.1</org.codehaus.groovy.version>
@@ -145,7 +145,7 @@
         <org.eclipse.osgi.version>3.10.0.v20140606-1445</org.eclipse.osgi.version>
         <org.eclipse.text.version>3.5.101</org.eclipse.text.version>
         <org.everrest.assured.version>0.22</org.everrest.assured.version>
-        <org.everrest.version>1.4.0</org.everrest.version>
+        <org.everrest.version>1.4.1-SNAPSHOT</org.everrest.version>
         <org.flyway.version>3.1</org.flyway.version>
         <org.glassfish.hk2.version>2.2.0</org.glassfish.hk2.version>
         <org.glassfish.jersey.version>2.8</org.glassfish.jersey.version>
