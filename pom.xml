@@ -127,7 +127,7 @@
         <org.apache.pig.version>0.12.0-codenvy-p1</org.apache.pig.version>
         <org.apache.poi.version>3.8</org.apache.poi.version>
         <org.apache.tika.version>1.1</org.apache.tika.version>
-        <org.apache.tomcat.version>8.0.21</org.apache.tomcat.version>
+        <org.apache.tomcat.version>8.0.22</org.apache.tomcat.version>
         <org.assertj.version>1.6.1</org.assertj.version>
         <org.bouncycastle.version>1.51</org.bouncycastle.version>
         <org.codehaus.groovy.version>1.8.1</org.codehaus.groovy.version>
